@@ -1,13 +1,13 @@
 //
-//  HACKPSUUITestsLaunchTests.swift
-//  HACKPSUUITests
+//  TinderAppUITestsLaunchTests.swift
+//  TinderAppUITests
 //
 //  Created by Param Nigam on 4/9/22.
 //
 
 import XCTest
 
-class HACKPSUUITestsLaunchTests: XCTestCase {
+class TinderAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

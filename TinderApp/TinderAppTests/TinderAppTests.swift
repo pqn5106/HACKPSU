@@ -1,14 +1,14 @@
 //
-//  HACKPSUTests.swift
-//  HACKPSUTests
+//  TinderAppTests.swift
+//  TinderAppTests
 //
 //  Created by Param Nigam on 4/9/22.
 //
 
 import XCTest
-@testable import HACKPSU
+@testable import TinderApp
 
-class HACKPSUTests: XCTestCase {
+class TinderAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
