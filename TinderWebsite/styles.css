@@ -3,7 +3,7 @@ html {
     background-color: black;
 }
 
-body.class-index {
+.paragraph {
     background-color: black;
     color: var(--mainText);
     animation: fadeInAnimation ease 3s;
